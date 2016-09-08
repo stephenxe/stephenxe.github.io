@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>梦境的油菜花的小窝</title>
+  <subtitle>浅心静学，微观视界，登高探远，求真不止！</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="http://www.xukaifang.com/blog/"/>
+  <updated>2016-09-08T12:33:22.000Z</updated>
+  <id>http://www.xukaifang.com/blog/</id>
+  
+  <author>
+    <name>徐开放</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客熟悉格式</title>
+    <link href="http://www.xukaifang.com/blog/2015/07/13/hello-world/"/>
+    <id>http://www.xukaifang.com/blog/2015/07/13/hello-world/</id>
+    <published>2015-07-13T12:46:25.000Z</published>
+    <updated>2016-09-08T12:33:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://www.xukaifang.com/blog">梦境的油菜花的小窝</a>.</p>
+<h3 id="创建新文章命令"><a href="#创建新文章命令" class="headerlink" title="创建新文章命令"></a>创建新文章命令</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<h3 id="启动服务器命令"><a href="#启动服务器命令" class="headerlink" title="启动服务器命令"></a>启动服务器命令</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<h3 id="生成静态页面"><a href="#生成静态页面" class="headerlink" title="生成静态页面"></a>生成静态页面</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<h3 id="发布到站点"><a href="#发布到站点" class="headerlink" title="发布到站点"></a>发布到站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>敬请持续关注</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://www.xukaifang.com/blog&quot;&gt;梦境的油菜花的小窝&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;创建新文章命令&quot;&gt;&lt;a href=&quot;#创建新文章命令&quot; class=&quot;headerlink&quot; title=&quot;创建新文
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://www.xukaifang.com/blog/categories/Diary/"/>
+    
+    
+      <category term="PS3" scheme="http://www.xukaifang.com/blog/tags/PS3/"/>
+    
+      <category term="Games" scheme="http://www.xukaifang.com/blog/tags/Games/"/>
+    
+  </entry>
+  
+</feed>
